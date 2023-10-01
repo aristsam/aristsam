@@ -5,3 +5,5 @@
 <a href="https://www.linkedin.com/in/aristotelis-tsampasidis-705505158/" target="_blank">
 <img src="https://shields.io/badge/LinkedIn-blue?Logo"/>
 </a>
+
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
