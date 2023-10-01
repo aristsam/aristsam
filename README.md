@@ -1,9 +1,10 @@
 <div align="center">
 <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="200"/>
-</div>
-
+  <div>
 <a href="https://www.linkedin.com/in/aristotelis-tsampasidis-705505158/" target="_blank">
 <img src="https://shields.io/badge/LinkedIn-blue?Logo"/>
 </a>
+</div>
+</div>
 
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
+
