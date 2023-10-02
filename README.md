@@ -35,3 +35,8 @@ I am Web developer.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristsam)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
